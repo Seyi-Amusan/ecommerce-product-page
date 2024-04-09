@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![(./image.png)](./screenshot.jpg)
+![()](./image.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Solution link](https://www.frontendmentor.io/solutions/ecommerce-product-page-bV0UKa6Aam)
+[Live site](https://seyi-amusan.github.io/ecommerce-product-page/)
 
 ## My process
 
